@@ -1,0 +1,19 @@
+# Site settings
+title: AI Mindset
+email: farid@fmcs.digital
+description: >- 
+  A book about AI mindset and its implications.
+baseurl: "/AI-Mindset" # the subpath of your site, e.g. /blog
+url: "https://maxinemheir.github.io" # the base hostname & protocol
+twitter_username: fmheir
+github_username: MaxineMheir
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: G-EX34CYDKWM  # property of fmcs.digital account
